@@ -9,7 +9,7 @@
 넘어지고 나서 바로 신고가 이루어 진다면 골든 타임을 놓치는 상황을 막을 수 있습니다.
 
 ## 설계
-
+![image](https://user-images.githubusercontent.com/62223905/136489126-fb849000-d6dc-4c4f-8c2e-fc7ba41c7022.png)
 ## 구현 방법
 
 ## 차이점
