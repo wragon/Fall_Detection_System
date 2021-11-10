@@ -14,16 +14,16 @@ class UserInfo:
         self.set_location()
 
     def set_name(self):
-        #self.name = input ("사용자 이름: ")
-        self.name = "" # todo yourself
+        self.name = input ("사용자 이름: ")
+        #self.name = "" # todo yourself
 
     def set_number(self):
-        #self.number = input ("보호자 연락처: ")
-        self.number = "" # todo yourself
+        self.number = input ("보호자 연락처: ")
+        #self.number = "" # todo yourself
 
     def set_location(self):
-        #self.location = input ("사용자 위치: ")
-        self.location = "" # todo yourself
+        self.location = input ("사용자 위치: ")
+        #self.location = "" # todo yourself
 
     def get_user(self):
         print(self.name)
